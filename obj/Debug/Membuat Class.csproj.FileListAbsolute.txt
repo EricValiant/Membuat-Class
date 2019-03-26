@@ -1,0 +1,7 @@
+D:\18.11.2245\Membuat Class\Membuat Class\obj\Debug\Membuat Class.csprojAssemblyReference.cache
+D:\18.11.2245\Membuat Class\Membuat Class\obj\Debug\Membuat Class.csproj.CoreCompileInputs.cache
+D:\18.11.2245\Membuat Class\Membuat Class\bin\Debug\Membuat Class.exe.config
+D:\18.11.2245\Membuat Class\Membuat Class\bin\Debug\Membuat Class.exe
+D:\18.11.2245\Membuat Class\Membuat Class\bin\Debug\Membuat Class.pdb
+D:\18.11.2245\Membuat Class\Membuat Class\obj\Debug\Membuat Class.exe
+D:\18.11.2245\Membuat Class\Membuat Class\obj\Debug\Membuat Class.pdb
